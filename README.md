@@ -1,1 +1,1 @@
-# selection
+This repository contains C++ project files I created through practicing and the programs are denomination of bill into 100s, 0s, etc, charge per hour of parking either car, truck or bus, and many more programs if you go into details.
